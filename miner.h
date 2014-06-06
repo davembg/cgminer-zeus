@@ -946,7 +946,7 @@ extern int gpu_threads;
 extern bool opt_scrypt;
 //#else
 //#define opt_scrypt (0)
-#endif
+//#endif
 extern double total_secs;
 extern int mining_threads;
 extern int total_devices;
